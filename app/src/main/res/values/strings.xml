@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="question_declaration">Let\'s play a quiz game!!!\n\t Please tap <b>next button</b></string>
+    <string name="Capital_of_England">London is the capital of England</string>
+    <string name="Comparative_adjective">The word <b>"NICER"</b>is a comparative adjective</string>
+    <string name="question_Ishaan">Are you Ishaan!!</string>
+    <string name="question_Daddy">Binoy is your Daddy</string>
+    <string name="question_Maths">Five and five makes <b>Twenty</b></string>
+
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s wrong</string>
+    <string name="next_text">Next</string>
+</resources>
